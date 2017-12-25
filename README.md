@@ -5,6 +5,7 @@
 * translation horizontale
 * supprimer les lignes completes et maj le score
 * ajouter les autres types de pieces
+* ajouter la rotation
 * ajouter les couleurs
 * gestion du temps
 * animations fluides
