@@ -34,6 +34,8 @@ public class Main extends Application {
 				case UP:
 				break;
 				case DOWN:
+					//TODO: when return false. create new piece.
+					//TODO: when out of space, game over.
 				p.translateV(Grille,w,h);
 				System.out.println(p);
 				break;
