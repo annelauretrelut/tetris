@@ -4,7 +4,7 @@ import javafx.scene.shape.Rectangle;
 
 public class Piece {
 	public int x, y;
-	public Rectangle rect;
+	public Rectangle rect; // TODO: faire toutes les autres pieces
 
 	public Piece(){
 		this.rect = new Rectangle(10,10);
@@ -22,4 +22,6 @@ public class Piece {
 		}
 		return false;
 	}
+	// TODO: translation horizontal
+	// TODO: rotations
 }
